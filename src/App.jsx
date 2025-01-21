@@ -5,7 +5,7 @@ import Header from '../src/Componets/Header';
 import Hero from '../src/Componets/Hero';
 import Genie from '../src/Componets/Genie';
 import Footer from '../src/Componets/Footer';
-import './assets/styles/app.scss';
+import '../src/assets/Styles/app.scss';
 
 export default function App() {
   const [imagem, setImagem] = useState(LampadaMagica);
