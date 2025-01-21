@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import GenioDaLampada from '../src/assets/Img/GenioDaLampada.svg';
+import GenioDaLampada from '../src/assets/Img/GeniodaLampada.svg';
 import LampadaMagica from '../src/assets/Img/LampadaMagica.svg';
 import Header from '../src/Componets/Header';
 import Hero from '../src/Componets/Hero';
